@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6423f8f9fc8586e58521ed18",
+    "imgUrl": "https://www.thesportsdb.com/images/media/player/thumb/tft7mc1625996327.jpg",
+    "name": "Neymar Junior",
+    "price": 500,
+    "position": "Left wing",
+    "quantity": 0
+  },
+  {
+    "id": "6423f8f99bf3b9e547942183",
+    "imgUrl": "https://www.thesportsdb.com/images/media/player/thumb/ino2iw1600892848.jpg",
+    "name": "Messi De Costa",
+    "price": 350,
+    "position": "Forword",
+    "quantity": 0
+  },
+  {
+    "id": "6423f8f9f1448a06b5aacba9",
+    "imgUrl": "https://www.thesportsdb.com/images/media/player/thumb/rmqntd1515941747.jpg",
+    "name": "Mbappe",
+    "price": 200,
+    "position": "Light wing",
+    "quantity": 0
+  },
+  {
+    "id": "6423f8f99355d29b1ebf6911",
+    "imgUrl": "https://www.thesportsdb.com/images/media/player/thumb/bkre241600892282.jpg",
+    "name": "Cristiano Ronaldo",
+    "price": 300,
+    "position": "Forward",
+    "quantity": 0
+  },
+  {
+    "id": "6423f8f931a5b2c1f901c5e0",
+    "imgUrl": "https://www.thesportsdb.com/images/media/player/thumb/2dyq4u1533490608.jpg",
+    "name": "Ronaldinho",
+    "price": 250,
+    "position": "Mid left",
+    "quantity": 0
+  },
+  {
+    "id": "6423f8f9f15ec9cb208798a1",
+    "imgUrl": "https://www.thesportsdb.com/images/media/player/thumb/tsv4c81654445549.jpg",
+    "name": "Carlos",
+    "price": 600,
+    "position": "left wing",
+    "quantity": 0
+  }
+]
